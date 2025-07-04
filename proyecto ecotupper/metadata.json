@@ -1,0 +1,7 @@
+{
+  "name": "Ecotupper",
+  "description": "Ecotupper is a mobile application designed to combat food waste by creating a direct marketplace for surplus items. Instead of traditional surprise bags, sellers (restaurants, stores, etc.) can upload photos and descriptions of the specific leftover items they have, allowing customers to see exactly what's available nearby. Customers can browse, filter, and reserve these items at a reduced price, getting great food while helping prevent waste. For sellers, it's a simple way to sell surplus and reduce losses, with an easy interface for posting items and tracking sales. It's a win-win platform that connects delicious food with conscious consumers and helps sellers become more sustainable.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
